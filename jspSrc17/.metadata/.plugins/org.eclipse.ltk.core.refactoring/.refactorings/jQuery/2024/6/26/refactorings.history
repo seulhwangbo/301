@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;jQuery/src/main/webapp/ch02/filter.html&apos; to &apos;filter2.html&apos;" description="Rename resource &apos;filter.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/ch02/filter.html" name="filter2.html" stamp="1719195289649" updateReferences="true"/>
+</session>

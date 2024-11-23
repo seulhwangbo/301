@@ -1,0 +1,10 @@
+127.0.0.1 - - [01/Jul/2024:17:28:33 +0900] "GET / HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:17:28:34 +0900] "GET /webStandard01/01/basic02.html HTTP/1.1" 200 550
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:17:28:34 +0900] "GET /favicon.ico HTTP/1.1" 404 819
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:17:29:09 +0900] "GET /webStandard01/01/basic02.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:17:29:12 +0900] "GET /webStandard01/01/basic02.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:17:29:12 +0900] "GET /webStandard01/01/basic02.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:17:29:12 +0900] "GET /webStandard01/01/basic02.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:17:29:12 +0900] "GET /webStandard01/01/basic02.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:17:29:19 +0900] "GET /webStandard01/01/basic02.html HTTP/1.1" 200 672
+0:0:0:0:0:0:0:1 - - [01/Jul/2024:17:29:40 +0900] "GET /webStandard01/01/basic02.html HTTP/1.1" 200 703

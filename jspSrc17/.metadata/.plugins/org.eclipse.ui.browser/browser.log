@@ -1,0 +1,29 @@
+
+6월 18, 2024 10:16:28.27 NEW SESSION
+6월 18, 2024 10:16:28.28 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 18, 2024 10:17:35.17 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 18, 2024 10:17:43.73 [17540:17660:0618/101743.739:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+6월 18, 2024 10:18:17.08 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 18, 2024 10:18:51.05 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 18, 2024 10:19:54.75 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 18, 2024 10:21:15.06 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+6월 19, 2024 14:12:58.33 NEW SESSION
+6월 19, 2024 14:12:58.34 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 19, 2024 14:13:07.52 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+6월 21, 2024 10:23:00.30 NEW SESSION
+6월 21, 2024 10:23:00.31 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 21, 2024 10:25:03.53 [17648:7412:0621/102503.532:ERROR:device_event_log_impl.cc(196)] [10:25:03.532] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+6월 21, 2024 10:25:05.54 [17648:7412:0621/102505.540:ERROR:device_event_log_impl.cc(196)] [10:25:05.540] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+
+6월 21, 2024 20:06:41.50 NEW SESSION
+6월 21, 2024 20:06:41.51 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 21, 2024 20:07:41.69 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 21, 2024 20:08:04.42 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+7월 12, 2024 14:32:57.46 NEW SESSION
+7월 12, 2024 14:32:57.46 Created TensorFlow Lite XNNPACK delegate for CPU.
+7월 12, 2024 15:16:27.61 [8400:12848:0712/151627.619:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+7월 12, 2024 15:42:06.80 [8400:12848:0712/154206.800:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+7월 12, 2024 15:59:36.31 [8400:12848:0712/155936.315:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
